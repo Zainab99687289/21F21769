@@ -1,0 +1,13 @@
+class Shape(
+  int size,length;
+  Shape()
+  {
+    size=20;
+    length=15;
+    }
+  Shape(int s,int l)
+  size=s;
+  length=l;
+  void display(){
+    system.out.println(The size is:+s);
+    system.out.println(The  length is:+l)
